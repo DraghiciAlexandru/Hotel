@@ -1,0 +1,16 @@
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\obj\Debug\Hotel_Dictionar_V2.csprojAssemblyReference.cache
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\obj\Debug\Hotel_Dictionar_V2.Properties.Resources.resources
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\obj\Debug\Hotel_Dictionar_V2.csproj.GenerateResource.cache
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\bin\Debug\Hotel_Dictionar_V2.exe.config
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\bin\Debug\Hotel_Dictionar_V2.exe
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\bin\Debug\Hotel_Dictionar_V2.pdb
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\bin\Debug\Syncfusion.Core.WinForms.dll
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\bin\Debug\Syncfusion.Licensing.dll
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\bin\Debug\Syncfusion.SfInput.WinForms.dll
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\bin\Debug\Syncfusion.Shared.Base.dll
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\bin\Debug\Syncfusion.Core.WinForms.xml
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\bin\Debug\Syncfusion.SfInput.WinForms.xml
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\bin\Debug\Syncfusion.Shared.Base.xml
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\obj\Debug\Hotel_Dictionar_V2.csproj.CopyComplete
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\obj\Debug\Hotel_Dictionar_V2.exe
+D:\C#\UI design\Dinamic\Hotel_Dictionar_V2\Hotel_Dictionar_V2\obj\Debug\Hotel_Dictionar_V2.pdb
